@@ -3,11 +3,11 @@
 list-style-type: none;
 
 }
-.left {
+#left {
     background-color: blue;
     width: 30%;
 }
-.right {
+#right {
     background-color: brown;
     width: 70%;
 }
