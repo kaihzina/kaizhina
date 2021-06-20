@@ -1,0 +1,13 @@
+#{
+ border: 0;
+list-style-type: none;
+
+}
+.left {
+    background-color: blue;
+    width: 30%;
+}
+.right {
+    background-color: brown;
+    width: 70%;
+}
