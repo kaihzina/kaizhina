@@ -1,1 +1,2 @@
-# kaizhina.github.io
+# kaizhina的日记存放点
+不定期加日记，照片，心得。
