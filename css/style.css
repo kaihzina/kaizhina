@@ -55,3 +55,12 @@ ul {
     width: 80%;
     float: right;
 }
+
+#year {
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+#year ul {
+    padding-inline-start: 40px;
+}
