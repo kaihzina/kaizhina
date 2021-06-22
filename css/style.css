@@ -1,14 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    font-size: 100%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#cen {
+    padding-top: 53px;
+}
+
 #left {
-    background-color: #39dd5c;
-    width: 30%;
+    width: 20%;
     height: 100%;
-    content: none;
-    float: left;
+    position: fixed;
+    background-color: darkgrey;
 }
 
 #left-logo {
-    padding-left: 6%;
-    padding-top: 6%;
+    padding-top: 10%;
+    padding-left: 10%;
 }
 
 #left-logo img {
@@ -19,11 +37,21 @@
     width: 80%;
 }
 
-#left-word p {}
+#left-word p {
+    text-indent: 2em;
+}
+
+#left-line {
+    font-size: 1%;
+}
+
+.left-name {
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
 
 #right {
     background-color: rgb(57, 223, 187);
-    width: 70%;
-    height: 100%;
-    float: left;
+    width: 80%;
+    float: right;
 }
