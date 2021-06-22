@@ -41,8 +41,8 @@ ul {
     text-indent: 2em;
 }
 
-#left-line {
-    font-size: 1%;
+#left-line ul {
+    padding-inline-start: 10px;
 }
 
 .left-name {
